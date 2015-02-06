@@ -1,2 +1,3 @@
 # icones
-Melhores ícones que deixa seu S.O mais belo.
+Melhores temas de ícones para deixar seu Linux mais belo.
+( ͡° ͜ʖ ͡°)
